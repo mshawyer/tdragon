@@ -1,9 +1,12 @@
 {
   "summary": {
-    "title": "draft concept"
+    "title": "draft concept",
+    "owner": "",
+    "description": ""
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": ""
   }
 }
